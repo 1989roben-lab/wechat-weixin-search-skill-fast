@@ -1,0 +1,1 @@
+# wechat-weixin-search-skill-fast
