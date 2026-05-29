@@ -1,0 +1,3 @@
+display_name: WeChat Weixin Search Fast
+short_description: Search WeChat public-account news quickly and cleanly.
+default_prompt: Search a company on WeChat public accounts, return dates and titles first, then put reference links at the end.
